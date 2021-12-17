@@ -1,0 +1,11 @@
+﻿species,genome_accession,strand,detailed_elem_type,elem_type,elem_start,elem_stop,subelem_type,subelem_start,subelem_stop
+Fake_species1_NC_123.1 +,NC_123.1,+,exon,exon,122537,122953,none,0,0
+Fake_species1_NC_123.1 +,NC_123.1,+,G1,intron,122954,124185,HNH_HE,123154,123969
+Fake_species1_NC_123.1 +,NC_123.1,+,exon,exon,124186,124305,none,0,0
+Fake_species1_NC_123.1 +,NC_123.1,+,G1,intron,124306,125316,GIY-YIG_HE,124458,125150
+Fake_species1_NC_123.1 +,NC_123.1,+,exon,exon,125317,125662,none,0,0
+Fake_species1_NC_123.1 +,NC_123.1,+,G1,intron,125663,126571,LAGLIDADG_HE,125809,126228
+Fake_species1_NC_123.1 +,NC_123.1,+,exon,exon,126572,126750,none,0,0
+Fake_species2_NC_456.1 -,NC_456.1,-,exon,exon,100,200,none,0,0
+Fake_species2_NC_456.1 -,NC_456.1,-,G1,intron,201,2000,LAGLIDADG_HE,400,800
+Fake_species2_NC_456.1 -,NC_456.1,-,exon,exon,2001,3000,none,0,0
