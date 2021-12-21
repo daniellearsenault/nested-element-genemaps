@@ -9,7 +9,7 @@ elements <- read.delim(file = "example_data.csv",
 #use the line below to assign colors to elements by hand 
 #(note: the elements are colored alphabetically, so in the example given below, 
 #the element that comes first alphabetically will be colored red, second orange, and so on.)
-#If you use this method be sure to edit lines 39 + 40!
+#If you use this method be sure to edit lines 40 + 41!
 #mycolors <- list('red', 'orange', 'yellow', 'white', 'green', 'purple')
 
 ggplot(data = elements, 
