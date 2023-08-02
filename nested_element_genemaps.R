@@ -21,7 +21,7 @@ ggplot(data = elements,
   facet_wrap(~ species, scales = "free", ncol = 1) +
   #coord_cartesian(xlim = c(4000, 127000) )+
   geom_gene_arrow(arrowhead_height = unit(3, "mm"), arrowhead_width = unit(1, "mm")) +
-  #use geom_gene_label() line below to add labels to first layer (exons and introns)
+  #use geom_gene_label() line below to add labels to first layer
   #geom_gene_label(align = 'left', min.size = 0) +
   geom_subgene_arrow(data = elements,
                      mapping = aes(xmin = elem_start, 
